@@ -7,7 +7,7 @@ I build tools for reliable platform operations, automation, and software deliver
 ## Selected projects
 
 - [Subzero](https://github.com/yuri-rod/subzero): Python worker and API with persisted jobs, bounded retries, restart recovery, and operator controls.
-- [Backchannel](https://github.com/yuri-rod/backchannel): standard-library Python service that mirrors local coding-agent sessions and provides an authenticated inbox for operator input.
+- [Backchannel](https://github.com/yuri-rod/backchannel): Python service using only the standard library to mirror local coding-agent sessions and provide an authenticated inbox for operator input.
 - [Agent Safepoint](https://github.com/yuri-rod/agent-safepoint): Rust CLI for workspace snapshots and file recovery, including uncommitted work.
 
 ## Open source contribution
